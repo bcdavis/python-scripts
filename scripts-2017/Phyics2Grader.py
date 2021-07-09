@@ -1,6 +1,6 @@
 # physics 2 grade calculator as of 11-16-2017
 """
-# = ben's numbers
+# = example grade numbers
 
 E1 = float(input("Enter exam 1 grade: "))  #62
 E2 = float(input("Enter exam 2 grade: "))  #40
